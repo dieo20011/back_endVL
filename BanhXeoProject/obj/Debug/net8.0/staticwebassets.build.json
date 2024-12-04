@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qrsjS5lXvOtC2kmdwem62AOC1KHrW0zdZG3PQ1rkv3U=",
+  "Source": "BanhXeoProject",
+  "BasePath": "_content/BanhXeoProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BanhXeoProject\\wwwroot",
+      "Source": "BanhXeoProject",
+      "ContentRoot": "C:\\Users\\LuanPham\\source\\repos\\BanhXeoProject\\BanhXeoProject\\wwwroot\\",
+      "BasePath": "_content/BanhXeoProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
